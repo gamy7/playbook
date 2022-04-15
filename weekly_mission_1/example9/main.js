@@ -1,5 +1,6 @@
-*/Manda a llamar el archivo  llamado pokemon,  todo ese archivo  ponlo en esta variable */
-const Pokemon = require('./pokemon')
+//Manda a llamar el archivo  llamado pokemon,  todo ese archivo  ponlo en esta variable */
+//const Pokemon = require('./pokemon')
+import Pokemon from './pokemon.js'
 
 const pikachu = new Pokemon("pikachu")
 const bulbasaur = new Pokemon("bulbasaur")
