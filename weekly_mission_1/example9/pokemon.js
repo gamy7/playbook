@@ -12,24 +12,3 @@ export default class pokemon {
   }
 
 }
-
-
-
-//se crearan las funciones a exportar
-
-
-//fuction sayHello(){
-  //console.log(' Te saluda!!!')
-
-//}
-
-//fuction sayMessage(message){
-  //console.log(${message})
-//}
-
-//module.exports.verbose = (message) => {
- // console.log(`verbose: ${message}`)
-//}
-
-
-
